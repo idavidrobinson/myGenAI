@@ -13,10 +13,7 @@ This project is designed to explore the applications of Generative AI in the are
 ### Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
+2. [Contact](#contact)
 
 ---
 
